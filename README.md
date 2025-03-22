@@ -1,0 +1,1 @@
+Blocks Game is a simply python game where the player, a blue dot, dodges falling red squares. Points are accumlated by letting red squares hit the bottom of the screen. The player loses if a red square hits the player's blue dot.
